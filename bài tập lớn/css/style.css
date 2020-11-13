@@ -1,0 +1,74 @@
+#bs-example-navbar-collapse-1{
+    height: 15px; 
+    margin: 0px 0px 50px 0px;
+}
+.txt, #txt{
+    color: #024282; 
+    font-size: 20px;
+}
+#txt .bdr-round{
+    padding-right: 5px;
+}
+li #txt {
+    padding-right: 10px;
+}
+.txt:hover, #txt:hover{
+    color: #fdb913;
+}
+#footer-h{
+    background-color: #024282;
+}
+li{
+    list-style: none; 
+}
+footer .fnav p {
+    color: #fff;
+    font-size: 18px;
+    margin: 30px 0 15px 0;
+}
+footer .fnav p a {
+    color: #fff;
+}
+footer .fsub {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color:rgb(158, 155, 155);
+    padding-top: 50px;
+}
+.sub-page {
+    list-style: none;
+    margin: 35px 30px 0 30px;
+}
+.sub-page li {
+    margin-bottom: 5px;
+}
+.sub-page .btn {
+    width: 200px;
+    color: #fff;
+    background-color: #42719f;
+    text-align: left;
+    font-size: 18.5px;
+}
+.sub-page .btn:hover, .sub-page .btn:hover i{
+    background-color:#fff;
+    color: #42719f;
+}
+.sub-page .btn i {
+    color: #fff;
+    margin-right: 10px;
+}
+.fsub a:hover{
+    color: #fff;
+}
+#cellfooter{
+    display: flex;
+    width: 100%;
+}
+#cellfooter .col-md-7, #cellfooter .col-md-5{
+    font-size: 13px;
+    padding-top: 10px;
+}
